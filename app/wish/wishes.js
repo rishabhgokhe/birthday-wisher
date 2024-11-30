@@ -28,8 +28,8 @@ export const wishes = [
     "Bari bari se wishes aur bohot si pyaar ki baatein, Happy Birthday! 🎂",
     "Dil se wish karte hain aapko, khushiyan aapke paas ho, har din aapka ho!",
     "Aap jahan bhi jayein, khushiyan hi khushiyan leke jayein. Happy Birthday!",
-    "Every day is a good day when you’re around. Have a super special birthday!",
+    "Every day is a good day when you&rsquo;re around. Have a super special birthday!",
     "Aapka har pal pyara ho, aur har pal sukhad ho. Happy Birthday!",
     "Duniya ki saari khushiyan mile, aur yeh saal ho aapka sabse accha saal!",
     "Aapke jeene ka tareeka sabko inspire kare. Happy Birthday!"
-];
+  ];
