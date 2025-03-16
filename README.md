@@ -4,8 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## 🚀 About Me  
 
 Hi there! I'm Rishabh Gokhe, a full-stack developer passionate about building scalable, real-time, and user-friendly applications. I focus on crafting seamless digital experiences using modern technologies like WebSockets, React, and Node.js.  
-
-I enjoy exploring new ideas, experimenting with emerging tech, and collaborating with like-minded developers. Whether it's web development, UI/UX design, or optimizing performance, I'm always excited to push boundaries and create impactful solutions.  
+ 
 
 ### My Vision  
 
